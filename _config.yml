@@ -1,5 +1,5 @@
-name: Awesome Research Group
-url: http://awesome.example.edu
+name: LSP Research Group
+url: http://lsp-group.example.edu
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 

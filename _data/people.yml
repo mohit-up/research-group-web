@@ -1,23 +1,9 @@
 
-prof-a:
-    display_name: "Prof A"
+prof:
+    display_name: "Li-Shiuan Peh"
     role: faculty
-
-prof-b:
-    display_name: "Prof B"
-    role: faculty
-
-prof-c:
-    display_name: "Prof C"
-    role: faculty
-
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
-    role: faculty
-    image: /img/people/prof-x.png
-    bio: Professor
+    image: /img/people/peh.jpeg
+    webpage: "https://www.comp.nus.edu.sg/~peh/"
 
 scott:
     display_name: "Scott Summers"
@@ -32,52 +18,46 @@ wolverine:
     github: wolverine
     role: postdoc
 
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+ananta:
+    display_name: "Ananta Narayan Balaji"
+    webpage: "https://github.com/AnantaBalaji"
     role: grad
     image: /img/people/storm.png
 
-grad-a:
-    display_name: "Grad A"
+mohit:
+    display_name: "Mohit Upadhyay"
+    webpage: "http://mohit-up.github.io/"
+    role: grad
+    image: /img/people/prof-x.png
+
+burin:
+    display_name: "Burin Amornpaisannon"
     role: grad
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
+teck-lun:
+    display_name: "Teck Lun Goh"
     role: grad
 
-grad-c:
-    display_name: "Grad C"
+thilini:
+    display_name: "Thilini Kaushalya Bandara"
     role: grad
 
-grad-d:
-    display_name: "Grad D"
+ayanga:
+    display_name: "Ayanga Kalupahana"
     role: grad
 
-grad-e:
-    display_name: "Grad E"
+yash:
+    display_name: "Yaswanth Tavva"
     role: grad
 
-grad-f:
-    display_name: "Grad F"
+rohan:
+    display_name: "Rohan Juneja"
     role: grad
 
-grad-g:
-    display_name: "Grad G"
-    role: grad
-
-grad-h:
-    display_name: "Grad H"
-    role: grad
-
-grad-i:
-    display_name: "Grad I"
-    role: grad
-
-alum-a:
-    display_name: "Alum A"
+wang-bo:
+    display_name: "Wang Bo"
     role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+    bio: "PostDoc 2020: Now Assistant Professor at SUTD"
 
 alum-b:
     display_name: "Alum B With Way Longer Name"
@@ -113,15 +93,15 @@ alum-i:
     role: alum
 
 collab-a:
-    display_name: "Collaborator A"
+    display_name: "Tulika Mitra"
     role: collab
 
 collab-b:
-    display_name: "Collaborator B With Long Name"
+    display_name: "Trevor E. Carlson"
     role: collab
 
 collab-c:
-    display_name: "Collaborator C"
+    display_name: "Weng-Fai Wong"
     role: collab
 
 collab-d:
