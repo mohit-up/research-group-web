@@ -32,7 +32,9 @@ mohit:
 
 burin:
     display_name: "Burin Amornpaisannon"
+    webpage: "https://www.linkedin.com/in/burin-a/"
     role: grad
+    image: /img/people/burin.jpg
 
 teck-lun:
     display_name: "Teck Lun Goh"
