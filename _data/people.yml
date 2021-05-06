@@ -50,11 +50,18 @@ ayanga:
 
 yash:
     display_name: "Yaswanth Tavva"
+    webpage: "https://sg.linkedin.com/in/yswnth"
     role: grad
+    image: /img/people/lupin.webp
 
 rohan:
     display_name: "Rohan Juneja"
     role: grad
+
+ahmed:
+    display_name: "Dr. Ahmed Shalaby"
+    webpage: "https://eg.linkedin.com/in/ashalaby"
+    role: Research Fellow
 
 wang-bo:
     display_name: "Wang Bo"
