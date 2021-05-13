@@ -60,7 +60,9 @@ yash:
 
 rohan:
     display_name: "Rohan Juneja"
+    webpage: "https://rohanjuneja.github.io/"
     role: grad
+    image: /img/people/rohan.jpg
 
 ahmed:
     display_name: "Dr. Ahmed Shalaby"
