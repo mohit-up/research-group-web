@@ -5,13 +5,6 @@ prof:
     image: /img/people/peh.jpeg
     webpage: "https://www.comp.nus.edu.sg/~peh/"
 
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
-
 ahmed:
     display_name: "Dr. Ahmed Shalaby"
     webpage: "https://eg.linkedin.com/in/ashalaby"
@@ -21,13 +14,13 @@ ananta:
     display_name: "Ananta Narayan Balaji"
     webpage: "https://anantabalaji.github.io/"
     role: grad
-    image: /img/people/storm.png
+    image: /img/people/ananta.jpeg
 
 mohit:
     display_name: "Mohit Upadhyay"
     webpage: "https://mohit-up.github.io/"
     role: grad
-    image: /img/people/prof-x.png
+    image: /img/people/mohit.jpg
 
 burin:
     display_name: "Burin Amornpaisannon"
@@ -37,6 +30,7 @@ burin:
 
 teck-lun:
     display_name: "Teck Lun Goh"
+    webpage: "https://www.linkedin.com/in/tecklungoh/"
     role: grad
 
 thilini:
@@ -67,9 +61,10 @@ wang-bo:
     role: alum
     bio: "PostDoc 2020: Now Assistant Professor at SUTD"
 
-alum-b:
-    display_name: "Alum B With Way Longer Name"
+zhou-jun:
+    display_name: "Zhou Jun"
     role: alum
+    bio: "PostDoc 2021: Now Researcher at A-star"
 
 alum-c:
     display_name: "Alum C"

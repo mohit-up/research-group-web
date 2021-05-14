@@ -1,20 +1,20 @@
 ---
-title: A Project
+title: Neural Network Hardware Accelerator at the Edge
 
 description: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit blandit
-  varius. Pellentesque habitant morbi tristique senectus et netus et malesuada
-  fames ac turpis egestas.
+  This project target to design hardware accelerators targetting neural network
+  applications at the edge, ranging from biomedical applications to computer-vision
+  based applications.
 
 people:
-  - storm
-  - profx
-  - grad-b
-  - scott
-  - wolverine
+  - mohit
+  - zhou-jun
+  - wang-bo
+  - collab-c
+  - prof
 
 layout: project
-last-updated: 2015-05-05
+last-updated: 2021-05-14
 ---
 
 Proin massa augue, eleifend non ultricies eget, feugiat ut nisl. Fusce at
