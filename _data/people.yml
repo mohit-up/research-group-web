@@ -46,7 +46,9 @@ thilini:
 
 ayanga:
     display_name: "Ayanga Kalupahana"
+    webpage: "https://www.linkedin.com/in/ayanga-kalupahana-7b131151/"
     role: grad
+    image: /img/people/AyangaK.jpg
 
 yash:
     display_name: "Yaswanth Tavva"
@@ -56,7 +58,9 @@ yash:
 
 rohan:
     display_name: "Rohan Juneja"
+    webpage: "https://rohanjuneja.github.io/"
     role: grad
+    image: /img/people/rohan.jpg
 
 wang-bo:
     display_name: "Wang Bo"
@@ -109,7 +113,7 @@ collab-c:
     role: collab
 
 collab-d:
-    display_name: "Collaborator D"
+    display_name: "Xiaokui Xiao"
     role: collab
 
 collab-e:
