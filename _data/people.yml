@@ -1,5 +1,5 @@
 
-prof:
+prof-peh:
     display_name: "Li-Shiuan Peh"
     role: faculty
     image: /img/people/peh.jpeg
@@ -60,11 +60,13 @@ wang-bo:
     display_name: "Wang Bo"
     role: alum
     bio: "PostDoc 2020: Now Assistant Professor at SUTD"
+    webpage: "https://istd.sutd.edu.sg/people/faculty/angela-wang-bo"
 
 zhou-jun:
     display_name: "Zhou Jun"
     role: alum
-    bio: "PostDoc 2021: Now Researcher at A-star"
+    bio: "PostDoc 2021: Now Researcher at A*STAR"
+    webpage: "https://www.linkedin.com/in/jun-zhou-39303a45/"
 
 alum-c:
     display_name: "Alum C"
@@ -95,19 +97,19 @@ alum-i:
     display_name: "Alum I"
     role: alum
 
-collab-a:
+prof-tulika:
     display_name: "Tulika Mitra"
     role: collab
 
-collab-b:
+prof-trevor:
     display_name: "Trevor E. Carlson"
     role: collab
 
-collab-c:
+prof-weng-fai:
     display_name: "Weng-Fai Wong"
     role: collab
 
-collab-d:
+prof-xiaokui:
     display_name: "Xiaokui Xiao"
     role: collab
 
