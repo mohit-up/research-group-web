@@ -12,21 +12,20 @@ scott:
     image: /img/people/scott.png
     bio: aka Cyclops
 
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
+ahmed:
+    display_name: "Dr. Ahmed Shalaby"
+    webpage: "https://eg.linkedin.com/in/ashalaby"
     role: postdoc
 
 ananta:
     display_name: "Ananta Narayan Balaji"
-    webpage: "https://github.com/AnantaBalaji"
+    webpage: "https://anantabalaji.github.io/"
     role: grad
     image: /img/people/storm.png
 
 mohit:
     display_name: "Mohit Upadhyay"
-    webpage: "http://mohit-up.github.io/"
+    webpage: "https://mohit-up.github.io/"
     role: grad
     image: /img/people/prof-x.png
 
@@ -44,7 +43,6 @@ thilini:
     display_name: "Thilini Kaushalya Bandara"
     webpage: "https://www.linkedin.com/in/thilinibandara91/"
     role: grad
-    image: /img/people/thilini.jpg
 
 ayanga:
     display_name: "Ayanga Kalupahana"
@@ -59,11 +57,6 @@ yash:
 rohan:
     display_name: "Rohan Juneja"
     role: grad
-
-ahmed:
-    display_name: "Dr. Ahmed Shalaby"
-    webpage: "https://eg.linkedin.com/in/ashalaby"
-    role: Research Fellow
 
 wang-bo:
     display_name: "Wang Bo"
