@@ -1,10 +1,7 @@
 --
-title: Using Sensor Inherent Noise in Wearables for User-level Privacy Preservation in Community Data Sensing
+Using Sensor Inherent Noise in Wearables for User-level Privacy Preservation in Community Data Sensing
 
-description: |
-  
-
-people:
+People:
   - Ayanga Kalupahana
   - Prof. Peh Li Shiuan
   - Prof. Xiaokui Xiao
@@ -14,7 +11,7 @@ people:
 layout: project
 ---
 
-## A Header
+## Description:
 
 Since wearable devices are enriched with many MEMS sensors, physical activities as well as physiological conditions such as heart condition, diabetics, stress can be measured, tracked and predicted. These sensor data and their derivatives are valuable not only to individuals, but they are also essential input in community data sensing based applications like traffic sensing and community health monitoring. So, it is key to have data from higher no. of participants real-time to do more reliable prediction in these applications. 
 
