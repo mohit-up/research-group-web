@@ -1,4 +1,3 @@
---
 ## Using Sensor Inherent Noise in Wearables for User-level Privacy Preservation in Community Data Sensing
 
 ## Description:
