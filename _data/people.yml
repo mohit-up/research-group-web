@@ -5,6 +5,12 @@ prof-peh:
     image: /img/people/peh.jpeg
     webpage: "https://www.comp.nus.edu.sg/~peh/"
 
+prof-carlson:
+    display_name: "Trevor Erik Carlson"
+    role: faculty
+    image: /img/people/prof-carlson.jpg
+    webpage: "https://www.comp.nus.edu.sg/~tcarlson/"
+
 ahmed:
     display_name: "Dr. Ahmed Shalaby"
     webpage: "https://eg.linkedin.com/in/ashalaby"
