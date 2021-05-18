@@ -15,7 +15,6 @@ people:
 
 layout: project
 last-updated: 2021-05-14
-link: "https://sites.google.com/view/shenjingproject/home"
 ---
 
 This project is targetted to work on designing novel hardware accelerators
@@ -25,3 +24,4 @@ and power outputs.
 One of the previous works is the Shenjing accelerator which is an SNN-based 
 accelerator targeting wearable applications.
 
+[Shenjing Project](https://sites.google.com/view/shenjingproject/home)
