@@ -6,7 +6,7 @@ description: |
 
 people:
   - burin
-  - prof-carlson
+  - prof-trevor
   - prof-peh
 
 layout: project

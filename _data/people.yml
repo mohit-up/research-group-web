@@ -2,14 +2,8 @@
 prof-peh:
     display_name: "Li-Shiuan Peh"
     role: faculty
-    image: /img/people/peh.jpeg
+    image: /img/people/prof-peh.jpeg
     webpage: "https://www.comp.nus.edu.sg/~peh/"
-
-prof-carlson:
-    display_name: "Trevor Erik Carlson"
-    role: faculty
-    image: /img/people/prof-carlson.jpg
-    webpage: "https://www.comp.nus.edu.sg/~tcarlson/"
 
 ahmed:
     display_name: "Dr. Ahmed Shalaby"
@@ -104,18 +98,23 @@ alum-i:
 prof-tulika:
     display_name: "Tulika Mitra"
     role: collab
+    webpage: "https://www.comp.nus.edu.sg/~tulika/"
 
 prof-trevor:
-    display_name: "Trevor E. Carlson"
+    display_name: "Trevor Erik Carlson"
     role: collab
+    image: /img/people/prof-carlson.jpg
+    webpage: "https://www.comp.nus.edu.sg/~tcarlson/"
 
 prof-weng-fai:
     display_name: "Weng-Fai Wong"
     role: collab
+    webpage: "https://www.comp.nus.edu.sg/~wongwf/"
 
 prof-xiaokui:
     display_name: "Xiaokui Xiao"
     role: collab
+    webpage: "https://www.comp.nus.edu.sg/~xiaoxk/"
 
 collab-e:
     display_name: "Collaborator E"
