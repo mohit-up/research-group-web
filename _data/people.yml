@@ -14,7 +14,7 @@ ananta:
     display_name: "Ananta Narayan Balaji"
     webpage: "https://anantabalaji.github.io/"
     role: grad
-    image: /img/people/ananta.jpeg
+    image: /img/people/ananta.HEIC
 
 mohit:
     display_name: "Mohit Upadhyay"
@@ -87,3 +87,13 @@ prof-xiaokui:
     display_name: "Xiaokui Xiao"
     role: collab
     webpage: "https://www.comp.nus.edu.sg/~xiaoxk/"
+
+shao-huilin:
+    display_name: "Shao Huilin"
+    role: collab
+    webpage: "https://www.huilinshao.com/pi/"
+
+chen-yuan:
+    display_name: "Yuan Chen"
+    role: collab
+    webpage: "https://www.huilinshao.com/team/"
