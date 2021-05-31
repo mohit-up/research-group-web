@@ -2,8 +2,12 @@
 layout: default
 title: Code
 ---
-This is an example of an additional page you could add to the site (and its navigation).
+This page contains any github repository links associated with the projects.
 
-If you like this template, find our group's other code here:
+
+ * [Shenjing Project](https://github.com/Angela-WangBo/Shenjing-RTL)
+ * [LABS](https://github.com/nus-labs/labs)
+
+The template used for this webpage was used from the github repo below:
 
  * [uwsampa on GitHub](https://github.com/uwsampa/)
