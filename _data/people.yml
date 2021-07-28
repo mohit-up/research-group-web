@@ -62,10 +62,11 @@ wang-bo:
     display_name: "Wang Bo"
     role: collab
     webpage: "https://istd.sutd.edu.sg/people/faculty/angela-wang-bo"
+    image: /img/people/wang-bo.jpeg
 
 zhou-jun:
     display_name: "Zhou Jun"
-    role: collab
+    role: alum
     webpage: "https://www.linkedin.com/in/jun-zhou-39303a45/"
 
 prof-tulika:

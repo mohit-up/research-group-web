@@ -23,8 +23,8 @@ serve: _includes/pubs.html
 clean:
 	$(RM) -r _site _includes/pubs.html
 
-DEPLOY_HOST ?= yourwebpage.com
-DEPLOY_PATH ?= www/
+DEPLOY_HOST ?= lspgroup@web1.comp.nus.edu.sg
+DEPLOY_PATH ?= /home/web/lspgroup/public_html
 RSYNC := rsync --compress --recursive --checksum --itemize-changes --delete -e ssh
 
 deploy: clean build
