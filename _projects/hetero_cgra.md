@@ -6,6 +6,8 @@ description: |
 
 people:
   - thilini
+  - rohan
+  - wang-bo
   - prof-peh
   - prof-tulika
 
