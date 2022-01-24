@@ -8,6 +8,7 @@ description: |
 
 people:
   - mohit
+  - rohan
   - zhou-jun
   - wang-bo
   - prof-weng-fai
