@@ -67,6 +67,7 @@ wang-bo:
 zhou-jun:
     display_name: "Zhou Jun"
     role: alum
+    image: /img/people/zhou-jun.jpg
     webpage: "https://www.linkedin.com/in/jun-zhou-39303a45/"
 
 prof-tulika:
@@ -84,6 +85,7 @@ prof-trevor:
 prof-weng-fai:
     display_name: "Weng-Fai Wong"
     role: collab
+    image: /img/people/prof-weng-fai.jpeg
     webpage: "https://www.comp.nus.edu.sg/~wongwf/"
 
 prof-xiaokui:

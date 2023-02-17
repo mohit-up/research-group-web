@@ -15,7 +15,7 @@ people:
   - prof-peh
 
 layout: project
-last-updated: 2021-05-31
+last-updated: 2023-02-17
 ---
 
 In the recent times, there has been an increase in the number of applications ranging from robotics, speech processing,
@@ -28,3 +28,8 @@ The idea is to design accelerators having extremely low area and power output.
 One of the previous works is the Shenjing accelerator which is an SNN-based accelerator targeting wearable applications.
 
 [Shenjing Project](https://sites.google.com/view/shenjingproject/home)
+
+One of the recent works published is the REACT hardware accelerator, which is a reconfigurable hardware accelerator which allows 
+heterogeneous cores supporting both training and inference.
+
+[REACT Project](https://sites.google.com/comp.nus.edu.sg/react)
