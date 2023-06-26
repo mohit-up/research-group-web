@@ -6,11 +6,12 @@ description: |
 
 people:
   - ayanga
+  - ananta
   - prof-peh
   - prof-xiaokui
 
 layout: project
-last-updated: 2021-05-17
+last-updated: 2022-05-17
 ---
 
 
@@ -18,4 +19,3 @@ Since wearable devices are enriched with many MEMS sensors, physical activities 
 
 These data consist of information that can be used directly or indirectly to derive individual health conditions and physical activities which are highly private to users. Re-identification attacks based on wearable data published as online anonymized dataset are very common nowadays and easily done using secondary information shared in social media. Further, since physiological and physical signal patterns are highly unique for a person, it is also possible to identify a person even without social media posting. 
 Hence, it is key to preserve user-level privacy in community data sensing applications at device-level. But computing and communication resources are highly constrained in low power embedded systems like wearables.  So, state of the art privacy algorithms developed for other advanced computer systems cannot be directly used.  Here we are exploring the possibility of using sensor’s inherent noise to provide privacy instead of applying power-intensive privacy algorithms. 
-
